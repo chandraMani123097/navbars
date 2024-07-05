@@ -1,0 +1,153 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+header{
+    background-color:white;
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+}
+
+.logo{
+    width: 130px;
+    height:60px ;
+    background-color:white;
+    margin-top: 0px;
+}
+
+#fb{
+    width: 150px;
+    height:45px ;
+    margin-top: 0;
+    background-color: white;
+
+}
+
+.div2{
+    
+    display: flex;
+    
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.search-bar{
+    height: 19.6px;
+    border: none;
+   outline: none;
+
+    padding-left: 0;
+     
+}
+
+#search-icon{
+    
+    height: 19.6px;
+    border: none;
+    padding: 0;
+    
+}
+
+#btn1{
+    background-color: white;
+    outline: none;
+    height: 25px;
+    border: 1.5px solid black;
+    border-radius: 14px;
+   
+    
+}
+
+#span1{
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+#btn2{
+    outline: none;
+    border: none;
+    background-color: white;
+}
+
+#span2{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+#btn3{
+    outline: none;
+    border: none;
+    background-color: white;
+}
+
+#span3{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+#btn4{
+    outline: none;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#span4{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+#btn5{
+    outline: none;
+    border: none;
+    background-color: white;
+}
+
+#span5{
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+#btn6{
+
+    
+    outline: none;
+    border: .90px solid black;
+    border-radius: 45%;
+    
+}
+
+
+#span6{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+#btn7{
+
+    
+    outline: none;
+    border: .90px solid black;
+    border-radius: 45%;
+    
+}
+
+#span7{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+#btn8{
+
+    
+    
+    border: .90px solid black;
+    border-radius: 45%;
+    
+}
+
+
