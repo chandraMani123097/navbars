@@ -150,4 +150,77 @@ header{
     
 }
 
+.main-profile{
+    height: 400px;
+    width: 220px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+
+
+
+
+.inner-div{
+    /* border: 1px solid black; */
+    height: 35px;
+    align-items: center;
+    
+}
+
+#btn-1{
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+    border-radius: 50%;
+}
+
+#btn-2{
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+    border-radius: 50%;
+}
+
+#btn-3,#btn-4,#btn-5,#btn-6,#btn-7,#btn-8,#btn-9,#btn-10{
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+    border-radius: 50%;
+}
+
+
+a{
+    margin-left: 10px;
+    color: rgb(8, 8, 8);
+    font-style: normal;
+}
+
+
+.inner-div:hover{
+    background-color: rgb(245, 237, 237);
+    height: 38px;
+}
+
+#sel-1{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.scroll-bar{
+    height: 400px;
+    width: 10px;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-left: 220px;
+}
+
 
